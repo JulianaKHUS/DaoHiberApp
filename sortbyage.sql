@@ -1,3 +1,4 @@
-SELECT name, surname
+SELECT *
 FROM PERSONS
-WHERE city_of_living = 'Moscow';
+WHERE age > 27;
+ORDER BY age DESC;

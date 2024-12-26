@@ -1,4 +1,4 @@
-package program.daohiber.dao;
+package program.daohiber;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
